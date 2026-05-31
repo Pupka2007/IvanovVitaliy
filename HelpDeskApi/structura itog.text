@@ -1,0 +1,25 @@
+Solution 'HelpDesk' (2 проекта)
+│
+├── HelpDeskApi
+│   ├── Controllers
+│   │   └── RequestsController.cs
+│   ├── Models
+│   │   ├── SupportRequest.cs
+│   │   └── RequestStatus.cs
+│   ├── Repositories
+│   │   ├── IRequestRepository.cs
+│   │   └── JsonRequestRepository.cs
+│   ├── Services
+│   │   ├── IRequestService.cs
+│   │   └── RequestService.cs
+│   ├── Data
+│   │   └── requests.json
+│   ├── Program.cs
+│   └── HelpDeskApi.csproj
+│
+└── HelpDeskUI
+    ├── Models
+    │   └── SupportRequest.cs
+    ├── Form1.cs
+    ├── Program.cs
+    └── HelpDeskUI.csproj

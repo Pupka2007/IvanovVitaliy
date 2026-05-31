@@ -1,0 +1,20 @@
+IvanovVitaliy/
+├── HelpDeskApi/
+│   ├── Controllers/
+│   │   └── RequestsController.cs
+│   │   └── TestController.cs
+│   ├── Models/
+│   │   ├── SupportRequest.cs
+│   │   └── RequestStatus.cs
+│   ├── Repositories/
+│   │   ├── IRequestRepository.cs
+│   │   └── JsonRequestRepository.cs
+│   ├── Services/
+│   │   ├── IRequestService.cs
+│   │   └── RequestService.cs
+│   ├── Data/
+│   │   └── requests.json
+│   └── Program.cs
+└── HelpDeskWeb/
+    ├── index.html
+    └── style.css
