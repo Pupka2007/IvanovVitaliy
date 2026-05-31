@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../IvanovVitaliy/HelpDeskUI/HelpDeskUI/HelpDeskUI.csproj" />
   <Project Path="HelpDeskApi/HelpDeskApi.csproj" />
+  <Project Path="HelpDeskUI/HelpDeskUI/HelpDeskUI.csproj" />
 </Solution>
